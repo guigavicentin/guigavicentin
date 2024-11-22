@@ -23,7 +23,11 @@
 
 ## 📚 Certificações e Conquistas
 - [Certificação XYZ](#)
-- Cursos de especialização em Pentest e Segurança da Informação.
+- Estacio - Tecnologo Defesa Cibernética.
+- eSecurity - Cyber Security
+- Alura - Pentest: explorando vulnerabilidades em aplicações web
+- Alura - Segurança Web: vulnerabilidades do seu sistema e OWASP
+- Alura - OWASP Top 10: de Injections a Broken Access Control
 
 ---
 
