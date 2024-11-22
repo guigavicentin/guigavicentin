@@ -1,6 +1,6 @@
 # 👋 Olá, sou Guilherme Vicentin!
 
-🎯 **Pentester | Ethical Hacker | Analista de Segurança da Informação | Red Team | Cibersegurança **
+🎯 **Pentester | Ethical Hacker | Analista de Segurança da Informação | Red Team | Cibersegurança**
 
 ---
 
