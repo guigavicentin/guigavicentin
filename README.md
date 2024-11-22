@@ -32,7 +32,7 @@
 - 📧 [E-mail](mailto:wsvicentin@gmail.com)
 - 🌟 [Meu Portfólio de Projetos](https://github.com/guigavicentin)
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ws_vicentin).
 
 # 💻 Tech Stack:
