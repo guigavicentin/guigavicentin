@@ -8,7 +8,7 @@
 🔹 Mais de 8 anos de experiência em tecnologia, incluindo:
 - **Cibersegurança e Pentest**: ajudando empresas a identificar vulnerabilidades e fortalecer sua segurança.
 - **Análise de Incidentes**: suporte em resposta a incidentes críticos.
-- Trabalhos recentes com **Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket**
+- Trabalhos recentes com **Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket** , **Voeja** , **FG empreendimentos**
 
 🔹 Apaixonado por aprender e compartilhar conhecimento em **segurança da informação**.
 
@@ -22,12 +22,18 @@
 ---
 
 ## 📚 Certificações e Conquistas
-- [Certificação XYZ](#)
+- [Certificações](#)
+- Pentest Experience - Desec Security
+- Novo Pentest Profissional - Desec Security
+- EXIN Ethical Hacking e CompTIA Pentest+ - Clavis Segurança da Informação
+- Recurso Complementar Cibersegurança - HackerOne
+- Intodução ao Pentest na pratica - Desec Security
 - Estacio - Tecnologo Defesa Cibernética.
 - eSecurity - Cyber Security
 - Alura - Pentest: explorando vulnerabilidades em aplicações web
 - Alura - Segurança Web: vulnerabilidades do seu sistema e OWASP
 - Alura - OWASP Top 10: de Injections a Broken Access Control
+
 
 ---
 
