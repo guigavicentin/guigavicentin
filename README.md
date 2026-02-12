@@ -5,34 +5,51 @@
 ---
 
 ## 🚀 Sobre Mim
-🔹 Mais de 8 anos de experiência em tecnologia, incluindo:
-- **Cibersegurança e Pentest**: ajudando empresas a identificar vulnerabilidades e fortalecer sua segurança.
-- **Análise de Incidentes**: suporte em resposta a incidentes críticos.
-- Trabalhos recentes com **Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket** , **Voeja** , **FG empreendimentos**
 
-🔹 Apaixonado por aprender e compartilhar conhecimento em **segurança da informação**.
+Profissional de Cibersegurança com mais de 8 anos de experiência em tecnologia, atuando principalmente em:
+
+🔹 Pentest Web & Infraestrutura
+
+🔹 Red Team e Análise de Vulnerabilidades
+
+🔹 Resposta a Incidentes de Segurança
+
+🔹 Bug Bounty & Security Research
+
+ Já realizei projetos de segurança para empresas como: 
+
+**Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket** , **Voeja** , **FG empreendimentos** , **Senior Sistemas** , **Multilog**
+
+Sou apaixonado por segurança ofensiva, automação e desenvolvimento de ferramentas para testes de invasão.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-- **Pentest**: Burp Suite, Nmap, Nessus, Metasploit, entre outros...
-- **Desenvolvimento**: PHP, Python.
-- **Infraestrutura**: Docker, AWS.
+## 🔧 Tecnologias & Ferramentas 🛠 Pentest & Red Team
+
+Burp Suite • Nmap • Metasploit • Nessus • Nuclei • Amass • Subfinder • Feroxbuster • SQLMap • Gobuster
+
+## 💻 Desenvolvimento & Automação
+
+Python • PHP • Bash • JavaScript
+
+## ☁️ Infraestrutura & Cloud
+
+Docker • AWS • Linux
 
 ---
 
 ## 📚 Certificações e Conquistas
 - [Certificações](#)
-- Pentest Experience - Desec Security
-- Novo Pentest Profissional - Desec Security
-- EXIN Ethical Hacking e CompTIA Pentest+ - Clavis Segurança da Informação
-- Recurso Complementar Cibersegurança - HackerOne
-- Intodução ao Pentest na pratica - Desec Security
-- Estacio - Tecnologo Defesa Cibernética.
-- eSecurity - Cyber Security
-- Alura - Pentest: explorando vulnerabilidades em aplicações web
-- Alura - Segurança Web: vulnerabilidades do seu sistema e OWASP
-- Alura - OWASP Top 10: de Injections a Broken Access Control
+- 🏅 Pentest Experience - Desec Security
+- 🏅 Novo Pentest Profissional - Desec Security
+- 🏅 EXIN Ethical Hacking e CompTIA Pentest+ - Clavis Segurança da Informação
+- 🏅 Recurso Complementar Cibersegurança - HackerOne
+- 🏅 Intodução ao Pentest na pratica - Desec Security
+- 🏅 Estacio - Tecnologo Defesa Cibernética.
+- 🏅 eSecurity - Cyber Security
+- 🏅 Alura - Pentest: explorando vulnerabilidades em aplicações web
+- 🏅 Alura - Segurança Web: vulnerabilidades do seu sistema e OWASP
+- 🏅 Alura - OWASP Top 10: de Injections a Broken Access Control
 
 
 ---
