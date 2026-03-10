@@ -18,7 +18,7 @@ Profissional de Cibersegurança com mais de 8 anos de experiência em tecnologia
 
  Já realizei projetos de segurança para empresas como: 
 
-**Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket** , **Voeja** , **FG empreendimentos** , **Senior Sistemas** , **Multilog**
+**Ingresse**, **Incrível Pay** , **Sysmo**, **Signativa** , **Swile** , **Blueticket** , **Voeja** , **FG empreendimentos** , **Multilog**
 
 Sou apaixonado por segurança ofensiva, automação e desenvolvimento de ferramentas para testes de invasão.
 
